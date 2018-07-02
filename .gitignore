@@ -1,0 +1,9 @@
+.gitignore
+token.json
+node_modules
+*.json
+nohup.out
+preferences.json
+emojiUsed.json
+emojiUsed.json
+preferences.json
